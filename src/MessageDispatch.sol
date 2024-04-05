@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT OR Apache-2.0
 pragma solidity >=0.8.0;
 
-import {MerkleInterchainModel} from "./MerkleInterchainModel.sol";
-import {MessageDispatchHook} from "./MessageDispatchHook.sol";
+import { MerkleInterchainModel } from "./MerkleInterchainModel.sol";
+import { MessageDispatchHook } from "./MessageDispatchHook.sol";
 
 interface PostOffice {
     

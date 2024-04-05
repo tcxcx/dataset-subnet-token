@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 
-interface MerkleInterchainSecurityProofs {
+interface MerkleInterchainModel {
     enum Types {
         UNUSED,
         ROUTING,
